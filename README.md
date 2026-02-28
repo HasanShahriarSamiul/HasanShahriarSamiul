@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I am Hasan Shahriar Samiul<br>🎓 I’m a Computer Science student<br>🌱 Currently I’m learning Database<br>💞️ I’m open to collaboration for learning<br>
+🧑‍💻 I am Hasan Shahriar Samiul<br>🎓 I’m a Computer Science student<br>🌱 Currently I’m learning SOFTWARE ENGINEERING <br>💞️ I’m open to collaboration for learning<br>
 
 
 ## 🌐 Socials:
